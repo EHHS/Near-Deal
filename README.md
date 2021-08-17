@@ -1,16 +1,10 @@
-# ayz_eh
+<h1 align="center">
+    Near Deal shop application
+</h1> 
 
-A new Flutter project.
+<div align="center">
+ <a href="https://www.youtube.com/watch?v=BxQ5BruD3yY">
+  <img src="https://user-images.githubusercontent.com/51857638/125622011-1cff591d-85ca-43c0-ac58-eba16ee1bd14.png" width="70%">
+ </a>
+</div>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
